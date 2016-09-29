@@ -4,7 +4,8 @@ module.exports = {
             applicationName: 'React Workshop 2'
         },
         build: {
-            routes: 'src/routes.js'
+            routes: 'src/routes.js',
+            reducers: 'src/reducers.js'
         }
     }
 };
