@@ -10,9 +10,10 @@
     "start": "roc start"
   },
   "dependencies": {
+    "isomorphic-fetch": "2.2.1",
     "roc-package-web-app-react": "1.0.0-beta.1"
   },
   "devDependencies": {
-      "roc-package-web-app-react-dev": "1.0.0-beta.1"
+    "roc-package-web-app-react-dev": "1.0.0-beta.1"
   }
 }
