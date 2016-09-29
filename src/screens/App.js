@@ -12,6 +12,7 @@ export default class App extends Component {
                 <nav>
                     <ul>
                         <li><IndexLink to="/">Start</IndexLink></li>
+                        <li><Link to="/clicker">Clicker</Link></li>
                     </ul>
                 </nav>
                 { this.props.children }
